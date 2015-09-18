@@ -1789,7 +1789,7 @@ msgstr "Impostazioni"
 #: src/application/pages/global/JavaPage.ui:46
 msgctxt "JavaPage|"
 msgid "Tab 1"
-msgstr ""
+msgstr "Tab 1"
 
 #: src/application/pages/global/JavaPage.ui:52
 msgctxt "JavaPage|"
@@ -1806,7 +1806,7 @@ msgstr "La quantità massima di memoria che Minecraft può usare."
 #: src/application/pages/global/JavaPage.ui:126
 msgctxt "JavaPage|"
 msgid " MB"
-msgstr ""
+msgstr "MB"
 
 #: src/application/pages/global/JavaPage.ui:80
 msgctxt "JavaPage|"
@@ -1836,7 +1836,7 @@ msgstr "La quantità di memoria disponiblile per memorizzare le classi di Java."
 #: src/application/pages/global/JavaPage.ui:148
 msgctxt "JavaPage|"
 msgid "Java Runtime"
-msgstr ""
+msgstr "Runtime Java"
 
 #: src/application/pages/global/JavaPage.ui:160
 msgctxt "JavaPage|"
@@ -1943,23 +1943,23 @@ msgstr "Caricamento della lista delle versioni di LWJGL..."
 #, qt-format
 msgctxt "LegacyInstance|"
 msgid "Legacy : %1 (broken)"
-msgstr ""
+msgstr "Eredita: %1 (invalida)"
 
 #: src/logic/minecraft/LegacyInstance.cpp:312
 #, qt-format
 msgctxt "LegacyInstance|"
 msgid "Legacy : %1"
-msgstr ""
+msgstr "Eredità: %1"
 
 #: src/application/pages/LegacyJarModPage.ui:14
 msgctxt "LegacyJarModPage|"
 msgid "LegacyJarModPage"
-msgstr ""
+msgstr "Pagina eredità delle mod .jar"
 
 #: src/application/pages/LegacyJarModPage.ui:36
 msgctxt "LegacyJarModPage|"
 msgid "Tab 1"
-msgstr ""
+msgstr "Tab 1"
 
 #: src/application/pages/LegacyJarModPage.ui:56
 #, fuzzy
@@ -1986,12 +1986,12 @@ msgstr "Sposta in &Basso"
 #, fuzzy
 msgctxt "LegacyJarModPage|"
 msgid "Install"
-msgstr "Installa il Forge"
+msgstr "Installa Minecraft Forge"
 
 #: src/application/pages/LegacyJarModPage.ui:100
 msgctxt "LegacyJarModPage|"
 msgid "&Add jar mod"
-msgstr ""
+msgstr "Aggiungi una mod"
 
 #: src/application/pages/LegacyJarModPage.ui:120
 #, fuzzy
@@ -2013,7 +2013,7 @@ msgstr "Seleziona le mod in Jar"
 #: src/application/pages/LegacyJarModPage.cpp:103
 msgctxt "LegacyJarModPage|"
 msgid "Minecraft.jar mods (*.zip *.jar)"
-msgstr ""
+msgstr "Mod del file minecraft.jar (*.zip, *.jar, se viene usato LiteLoader: *.litemod)"
 
 #: src/logic/minecraft/LegacyUpdate.cpp:61
 #, fuzzy
@@ -2030,18 +2030,18 @@ msgstr "Download del nuovo minecraft.jar in corso..."
 #: src/logic/minecraft/LegacyUpdate.cpp:131
 msgctxt "LegacyUpdate|"
 msgid "Copying FML libraries into the instance..."
-msgstr ""
+msgstr "Copiando le librerie FML dentro l'istanza"
 
 #: src/logic/minecraft/LegacyUpdate.cpp:142
 msgctxt "LegacyUpdate|"
 msgid "Failed creating FML library folder inside the instance."
-msgstr ""
+msgstr "Impossibile creare la cartella per le librerie FML dentro l'istanza"
 
 #: src/logic/minecraft/LegacyUpdate.cpp:147
 #, qt-format
 msgctxt "LegacyUpdate|"
 msgid "Failed copying Forge/FML library: %1."
-msgstr ""
+msgstr "Copia fallita delle librerie Forge/FML"
 
 #: src/logic/minecraft/LegacyUpdate.cpp:159
 #, qt-format
@@ -2049,7 +2049,7 @@ msgctxt "LegacyUpdate|"
 msgid ""
 "Game update failed: it was impossible to fetch the required FML libraries. "
 "Reason: %1"
-msgstr ""
+msgstr "Aggiornamento del gioco fallito: Impossibile trovare le librerie FML richieste"
 
 #: src/logic/minecraft/LegacyUpdate.cpp:186
 msgctxt "LegacyUpdate|"
@@ -2064,13 +2064,13 @@ msgstr "Installazione del nuovo LWJGL..."
 #: src/logic/minecraft/LegacyUpdate.cpp:326
 msgctxt "LegacyUpdate|"
 msgid "Installing new LWJGL - extracting "
-msgstr "Installazione del nuovoLWJGL - estrazione "
+msgstr "Installazione del nuovo LWJGL - estrazione "
 
 #: src/logic/minecraft/LegacyUpdate.cpp:344
 #, qt-format
 msgctxt "LegacyUpdate|"
 msgid "Bad stuff happened while trying to get the lwjgl libs: %1"
-msgstr ""
+msgstr "C'e stato un errore durante il tentativo di ottenere le librerie LWJGL:% 1"
 
 #: src/logic/minecraft/LegacyUpdate.cpp:356
 msgctxt "LegacyUpdate|"
@@ -2180,7 +2180,7 @@ msgstr ""
 #: src/application/pages/LegacyUpgradePage.ui:50
 msgctxt "LegacyUpgradePage|"
 msgid "Start the upgrade! (Not Yet Implemented, Coming Soon™)"
-msgstr ""
+msgstr "Avvia l'aggiornamento (Non ancora implementato, prossimamente)"
 
 #: src/logic/liteloader/LiteLoaderInstaller.cpp:111
 msgctxt "LiteLoaderInstallTask|"
@@ -2200,42 +2200,42 @@ msgstr ""
 #: src/application/pages/LogPage.ui:14
 msgctxt "LogPage|"
 msgid "Log"
-msgstr ""
+msgstr "Log"
 
 #: src/application/pages/LogPage.ui:36
 msgctxt "LogPage|"
 msgid "Tab 1"
-msgstr ""
+msgstr "Tab 1"
 
 #: src/application/pages/LogPage.ui:118
 msgctxt "LogPage|"
 msgid "Search:"
-msgstr ""
+msgstr "Cerca:"
 
 #: src/application/pages/LogPage.ui:125
 msgctxt "LogPage|"
 msgid "Find"
-msgstr ""
+msgstr "Trova"
 
 #: src/application/pages/LogPage.ui:63
 msgctxt "LogPage|"
 msgid "Keep updating"
-msgstr ""
+msgstr "Mantieni l'aggiornamento"
 
 #: src/application/pages/LogPage.ui:86
 msgctxt "LogPage|"
 msgid "Copy the whole log into the clipboard"
-msgstr ""
+msgstr "Copiare l'intero log negli appunti"
 
 #: src/application/pages/LogPage.ui:89
 msgctxt "LogPage|"
 msgid "&Copy"
-msgstr ""
+msgstr "&Copia"
 
 #: src/application/pages/LogPage.ui:96
 msgctxt "LogPage|"
 msgid "Upload the log to paste.ee - it will stay online for a month"
-msgstr ""
+msgstr "Carica il log su paste.ee - rimarrà on-line per un mese"
 
 #: src/application/pages/LogPage.ui:99
 msgctxt "LogPage|"
@@ -2245,22 +2245,22 @@ msgstr "Carica"
 #: src/application/pages/LogPage.ui:106
 msgctxt "LogPage|"
 msgid "Clear the log"
-msgstr ""
+msgstr "Pulisci il log"
 
 #: src/application/pages/LogPage.ui:109
 msgctxt "LogPage|"
 msgid "Clear"
-msgstr ""
+msgstr "Pulisci"
 
 #: src/application/pages/LogPage.ui:135
 msgctxt "LogPage|"
 msgid "Scroll all the way to bottom"
-msgstr ""
+msgstr "Scorrere fino in fondo"
 
 #: src/application/pages/LogPage.ui:138
 msgctxt "LogPage|"
 msgid "Bottom"
-msgstr ""
+msgstr "Fondo"
 
 #: src/application/pages/LogPage.h:40
 #, fuzzy
@@ -2282,7 +2282,7 @@ msgstr "Segnaposto dell'etichetta dei messaggi."
 #: src/application/dialogs/LoginDialog.ui:39
 msgctxt "LoginDialog|"
 msgid "Email / Username"
-msgstr "Email"
+msgstr "E-mail"
 
 #: src/application/dialogs/LoginDialog.ui:49
 msgctxt "LoginDialog|"
@@ -2332,7 +2332,7 @@ msgstr "Caricamento della lista delle versioni delle istanze..."
 #, qt-format
 msgctxt "MCVListLoadTask|"
 msgid "Error parsing version list JSON: %1"
-msgstr ""
+msgstr "Errore durante l'analisi della lista delle versioni JSON: %1"
 
 #: src/logic/minecraft/MinecraftVersionList.cpp:527
 #, fuzzy
@@ -2418,7 +2418,7 @@ msgstr "Aggiorna la lista delle istanze."
 #: src/application/MainWindow.cpp:235
 msgctxt "MainWindow|"
 msgid "View Central Mods Folder"
-msgstr "Apri la Cartella Principale delle Mod"
+msgstr "Apri la Cartella Principale delle mod"
 
 #: src/application/MainWindow.cpp:236 src/application/MainWindow.cpp:237
 msgctxt "MainWindow|"
@@ -2458,17 +2458,17 @@ msgstr "Apri il tracciatore di bug per segnalare un bug con MultiMC."
 #: src/application/MainWindow.cpp:247
 msgctxt "MainWindow|"
 msgid "Support us on Patreon!"
-msgstr ""
+msgstr "Aiutaci su Patreon"
 
 #: src/application/MainWindow.cpp:248 src/application/MainWindow.cpp:249
 msgctxt "MainWindow|"
 msgid "Open the MultiMC Patreon page."
-msgstr ""
+msgstr "Apri la pagina Patreon di MultiMC"
 
 #: src/application/MainWindow.cpp:250
 msgctxt "MainWindow|"
 msgid "More News"
-msgstr "Più Novità"
+msgstr "Più novità"
 
 #: src/application/MainWindow.cpp:251
 msgctxt "MainWindow|"
@@ -2483,7 +2483,7 @@ msgstr "Apri il blog di sviluppo di MultiMC per leggere più novità su MultiMC.
 #: src/application/MainWindow.cpp:254 src/application/MainWindow.cpp:256
 msgctxt "MainWindow|"
 msgid "About MultiMC"
-msgstr "Info su MultiMC"
+msgstr "Informazioni su MultiMC"
 
 #: src/application/MainWindow.cpp:255
 msgctxt "MainWindow|"
@@ -2576,7 +2576,7 @@ msgstr "Elimina l'istanza selezionata."
 #: src/application/MainWindow.cpp:282
 msgctxt "MainWindow|"
 msgid "Config Folder"
-msgstr "Cartella dei Config"
+msgstr "Cartella di configurazione"
 
 #: src/application/MainWindow.cpp:283
 msgctxt "MainWindow|"
@@ -5004,7 +5004,7 @@ msgstr "..."
 
 #~ msgctxt "JavaPage|"
 #~ msgid "Java test failure"
-#~ msgstr "Test di Java fallito"
+#~ msgstr "Test java fallito"
 
 #~ msgctxt "JavaPage|"
 #~ msgid ""
@@ -5022,7 +5022,7 @@ msgstr "..."
 #, fuzzy
 #~ msgctxt "JavaVersionList|"
 #~ msgid "The name of the version."
-#~ msgstr "Cambia la versione di Minecraft"
+#~ msgstr "Nome della versione di minecraft"
 
 #~ msgctxt "LWJGLSelectDialog|"
 #~ msgid "Status label..."
@@ -5038,7 +5038,7 @@ msgstr "..."
 
 #~ msgctxt "LegacyJarModPage|"
 #~ msgid "Install Forge"
-#~ msgstr "Installa il Forge"
+#~ msgstr "Installa Forge"
 
 #, fuzzy
 #~ msgctxt "LegacyJarModPage|"
@@ -5091,7 +5091,7 @@ msgstr "..."
 #, fuzzy
 #~ msgctxt "OneSixUpdate|"
 #~ msgid "Creating stripped jar: Opening minecraft.jar ..."
-#~ msgstr "Installazione delle mod: Apertura del minecraft.jar ..."
+#~ msgstr "Installazione delle mod: Apertura minecraft.jar ..."
 
 #, fuzzy
 #~ msgctxt "OneSixUpdate|"
@@ -5109,7 +5109,7 @@ msgstr "..."
 
 #~ msgctxt "VersionPage|"
 #~ msgid "This isn't implemented yet."
-#~ msgstr "Non ancora implementato."
+#~ msgstr "Non è ancora implementato."
 
 #~ msgctxt "VersionPage|"
 #~ msgid "Replace any current custom version with Minecraft Forge"
